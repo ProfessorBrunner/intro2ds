@@ -11,7 +11,7 @@ To run Docker on Windows or Mac OS X, you need to install an application called
 
 3. Run the `Boot2Docker Start` shell script from your Desktop or Program Files > Boot2Docker for Windows. The Start script will ask you to enter an ssh key passphrase - the simplest (but least secure) is to just hit [Enter].
 
-![windows boot2docker start](windows-boot2docker-start.png)
+![windows boot2docker start](images/windows-boot2docker-start.png)
 
 The Boot2Docker Start script will connect you to a shell session in the virtual machine. If needed, it will initialize a new Virtual Machine (VM) and start it.
 

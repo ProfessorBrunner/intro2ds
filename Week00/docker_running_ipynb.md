@@ -59,7 +59,7 @@ check the ip address with
 docker@boot2docker:~$ ifconfig
 ```
 
-![notebook server](ipynb1.png)
+![notebook server](images/ipynb1.png)
 
 Select New Notebook and an empty notebook will be created. You can test this by entering 
 
@@ -69,12 +69,12 @@ print('hello world')
 
 and pressing <kbd>shift</kbd>+<kbd>Enter</kbd>
 
-![empty notebook](ipynb2.png)
+![empty notebook](images/ipynb2.png)
 
 When you are done working on your IPython notebook, save your work by selecting
 File > Download as > IPython Notebook (.ipynb):
 
-![download notebook](ipynb3.png)
+![download notebook](images/ipynb3.png)
 
 Your work will be saved on the **host** machine (not in the Docker container).
 
