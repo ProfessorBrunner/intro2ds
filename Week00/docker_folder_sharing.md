@@ -19,7 +19,7 @@ to connect to
 
 and the shared folder should appear as either `data` or `_data`.
 
-![connect with explorer](explorer2.png)
+![connect with explorer](images/explorer2.png)
 
 On Mac OS X, you can find out the IP address of your Boot2Docker host with
 
